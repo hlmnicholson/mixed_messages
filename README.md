@@ -1,7 +1,5 @@
 # mixed_messages
 
-## Trello board: <https://trello.com/b/yLWBDtNj/mixed-messages-codecademy>
-
 This is a terminal/command line random message generator application built with JavaScript that provides the user with a nonsensical horoscope/prediction of their future at runtime.
 
 ## Table of Contents
