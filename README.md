@@ -26,15 +26,20 @@ This is a terminal/command line random message generator application built with 
 
 ## Usage
 
-TBC
+* Use terminal or Gitbash to clone repo
+* cd into folder
+* run the command "node script.js"
 
 ## Project Status
 
-Still in MVP development
+MVP is complete, preparing to expand.
 
 ## Room for Improvement
 
-TBC
+* Add frontend
+* In addition to doing random messages, could print random ASCII art.
+* Take input from users - starting with a favourite flavour
+* Allow users to select dietary preferences/allergies
 
 ## Acknowledgements
 
