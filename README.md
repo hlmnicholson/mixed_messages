@@ -1,6 +1,6 @@
 # mixed_messages
 
-This is a terminal/command line random message generator application built with JavaScript that provides the user with a nonsensical horoscope/prediction of their future at runtime.
+This is a terminal/command line random message generator application built with JavaScript that provides the user with a randomly generated milkshake at runtime.
 
 ## Table of Contents
 
@@ -15,6 +15,7 @@ This is a terminal/command line random message generator application built with 
 ## General Information
 
 * This project was created to provide the user with mindless entertainment between engagements, but also to give me the chance to practice correct version control and Github practices while working on an application.
+* To make the program truly random, the milkshake will be made up of at least three different pieces of data.
 
 ## Technologies Used
 
